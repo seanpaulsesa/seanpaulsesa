@@ -1,6 +1,17 @@
 # 👋 Hello I am Paulus Sesa / web developer 💻
-Menurut saya di era yang serba digital sekarang ini belajar koding, belajar coding dapat membuka banyak sekali kesempatan atau peluang untuk berkarir di dunia kerja.
+Menurut saya di era yang serba digital sekarang ini,
+belajar koding, dapat membuka banyak sekali kesempatan atau
+peluang untuk berkarir di dunia kerja.
 
+## 🏛 Education:
+- paradise university
+- faculty of mathematics and natural   sciences
+- Information Systems Student
+- majoring in information systems
+
+ ## 📚🙏 High school graduate
+   SMA N 1 Ayamaru JL.Framu `2015-2018`
+   
 ## 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
 - 🌱 I'm currently learning php, html, css and Javascript
