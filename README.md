@@ -1,4 +1,4 @@
-# :Hello <br>Developed</br>, I am <br>Paulus Sesa </br>
+# 👋 Hello I am Paulus Sesa / web developer
 Menurut saya di era yang serba digital sekarang ini belajar koding, belajar coding dapat membuka banyak sekali kesempatan atau peluang untuk berkarir di dunia kerja.
 
 <!--
