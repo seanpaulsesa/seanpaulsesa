@@ -17,7 +17,7 @@ peluang untuk berkarir di dunia kerja.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sesa.paulus/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulus-sesa-551851240/?originalSubdomain=id)
 
-[![facebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFacebook_f_logo_%25282019%2529.svg&psig=AOvVaw2Yf-_rsYFYCS91jzbHIOHZ&ust=1690212227248000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiziLWRpYADFQAAAAAdAAAAABAE)](https://www.facebook.com/Slobofe)
+(https://www.facebook.com/Slobofe)
 
 ## 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
@@ -26,6 +26,18 @@ peluang untuk berkarir di dunia kerja.
 - 🤔In my opinion, in today's all-digital era, learning coding can open up a lot of        opportunities for a career in the world of work.
 - 💬 Ask me about anything
 - 📫 How to reach me: pauluspaul7700@gmail.com
+
+
+## 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+
+ ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+ 
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 <!--
 **seanpaulsesa/seanpaulsesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
