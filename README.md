@@ -1,4 +1,5 @@
-### Hi there 👋
+# :Hello <br>Developed</br>, I am <br>Paulus Sesa </br>
+Menurut saya di era yang serba digital sekarang ini belajar koding, belajar coding dapat membuka banyak sekali kesempatan atau peluang untuk berkarir di dunia kerja.
 
 <!--
 **seanpaulsesa/seanpaulsesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
