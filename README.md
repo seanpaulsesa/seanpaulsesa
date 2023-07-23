@@ -3,6 +3,14 @@ Menurut saya di era yang serba digital sekarang ini,
 belajar koding, dapat membuka banyak sekali kesempatan atau
 peluang untuk berkarir di dunia kerja.
 
+## 💫 About me:
+- 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
+- 🌱 I'm currently learning php, html, css and Javascript
+- 👯 I'm want to become a web developer
+- 🤔In my opinion, in today's all-digital era, learning coding can open up a lot of        opportunities for a career in the world of work.
+- 💬 Ask me about anything
+- 📫 How to reach me: pauluspaul7700@gmail.com
+
 ## 🏛 Education:
 - paradise university
 - faculty of mathematics and natural   sciences
@@ -17,24 +25,10 @@ peluang untuk berkarir di dunia kerja.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sesa.paulus/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulus-sesa-551851240/?originalSubdomain=id)
 
-(https://www.facebook.com/Slobofe)
-
-## 💫 About me:
-- 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
-- 🌱 I'm currently learning php, html, css and Javascript
-- 👯 I'm want to become a web developer
-- 🤔In my opinion, in today's all-digital era, learning coding can open up a lot of        opportunities for a career in the world of work.
-- 💬 Ask me about anything
-- 📫 How to reach me: pauluspaul7700@gmail.com
-
-
 ## 💻Tech Stack
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	
 <!--
 **seanpaulsesa/seanpaulsesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
