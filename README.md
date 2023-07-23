@@ -17,6 +17,8 @@ peluang untuk berkarir di dunia kerja.
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sesa.paulus/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulus-sesa-551851240/?originalSubdomain=id)
 
+[![facebook](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AFacebook_f_logo_%25282019%2529.svg&psig=AOvVaw2Yf-_rsYFYCS91jzbHIOHZ&ust=1690212227248000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiziLWRpYADFQAAAAAdAAAAABAE)](https://www.facebook.com/Slobofe)
+
 ## 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
 - 🌱 I'm currently learning php, html, css and Javascript
