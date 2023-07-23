@@ -10,8 +10,12 @@ peluang untuk berkarir di dunia kerja.
 - majoring in information systems
 
  ## 📚🙏 High school graduate
-   SMA N 1 Ayamaru JL.Framu `2015-2018`
-   
+   Kabupaten Maybrat
+   SMA Negeri 1 Ayamaru JL.Framu `2015-2018`
+
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/sesa.paulus/)
+
 ## 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
 - 🌱 I'm currently learning php, html, css and Javascript
