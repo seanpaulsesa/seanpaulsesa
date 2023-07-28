@@ -5,7 +5,7 @@ peluang untuk berkarir di dunia kerja.
 
 ## 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
-- 🌱 I'm currently learning HTML, CSS, JAVASCRIPT, PHP!
+- 🌱 I'm currently learning HTML, CSS, JAVASCRIPT, PHP, SQL!
 - 👯 I'm want to become a web developer
 - 🤔In my opinion, in today's all-digital era, learning coding can open up a lot of        opportunities for a career in the world of work.
 - 💬 Ask me about anything
