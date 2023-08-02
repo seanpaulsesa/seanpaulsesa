@@ -1,4 +1,6 @@
 #              👋 Hi Welcome! 💻
+
+![](./paulus_sesa.jpeg)
 Menurut saya di era yang serba digital sekarang ini,
 belajar koding, dapat membuka banyak sekali kesempatan atau
 peluang untuk berkarir di dunia kerja.
