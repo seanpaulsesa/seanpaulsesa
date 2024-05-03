@@ -1,4 +1,4 @@
-#              👋 Hi Welcome! 💻
+<center> Hi Welcome👋</center> 
 
 ![](./paulus_sesa.jpeg)
 Menurut saya di era yang serba digital sekarang ini,
