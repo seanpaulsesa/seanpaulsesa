@@ -1,6 +1,10 @@
-## <center> Hey Welcome👋</center> 
+## <center> Hello Welcome👋</center> 
 ![](./img/github-header-image.png)
-![](./paul.png)
+![](./paulus_sesa.jpeg)
+
+
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP, SQL!
 Menurut saya di era yang serba digital sekarang ini,
 belajar koding, dapat membuka banyak sekali kesempatan atau
 peluang untuk berkarir di dunia kerja.
