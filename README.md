@@ -1,6 +1,7 @@
 <h1 align='center'>
   Hi there 👋 I'm Paulus Sesa 👨‍💻
 </h1>
+
 ![](./img/github-header-image.png)
 
 
