@@ -1,6 +1,6 @@
-<center> Hi Welcome👋</center> 
-
-![](./paulus_sesa.jpeg)
+## <center> Hey Welcome👋</center> 
+![](./img/github-header-image.png)
+![](./paul.png)
 Menurut saya di era yang serba digital sekarang ini,
 belajar koding, dapat membuka banyak sekali kesempatan atau
 peluang untuk berkarir di dunia kerja.
