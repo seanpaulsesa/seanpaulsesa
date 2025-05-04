@@ -1,6 +1,5 @@
 ## <center> Hello Welcome👋</center> 
 ![](./img/github-header-image.png)
-![](./paulus_sesa.jpeg)
 
 
 - 👀 I’m interested in web development
