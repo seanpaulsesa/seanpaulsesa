@@ -11,7 +11,8 @@ Menurut saya di era yang serba digital sekarang ini,
 belajar koding, dapat membuka banyak sekali kesempatan atau
 peluang untuk berkarir di dunia kerja.
 
-![](1.png)
+
+ ![](3.png)
 
 ##### 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
