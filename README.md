@@ -12,7 +12,7 @@ belajar koding, dapat membuka banyak sekali kesempatan atau
 peluang untuk berkarir di dunia kerja.
 
 
- ![](3.png)
+ ![](paulus_sesa.jpeg)
 
 ##### 💫 About me:
 - 🔭 I am currently studying in the [SaCode community](www.sacode.web.id)
